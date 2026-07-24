@@ -260,5 +260,3 @@ Please do not sell or commercially redistribute the character assets.
 
 If this quiet little dinosaur made your coding day nicer, please leave a star.
 It helps more Codex users find him.
-
-

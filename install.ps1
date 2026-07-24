@@ -16,5 +16,3 @@ Invoke-WebRequest `
 Write-Host ""
 Write-Host "Brachio is ready!" -ForegroundColor Green
 Write-Host "Open Codex > Settings > Pets, refresh the list, and select Brachio."
-
-

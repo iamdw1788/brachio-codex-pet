@@ -8,5 +8,3 @@ studio. Original character-related rights belong to their respective rights
 holders.
 
 The included character artwork may not be sold or used commercially.
-
-
